@@ -3,7 +3,7 @@
 
 	<!-- Settings -->
 	<RimMarket.Settings.FeeMode>Плата за торгове місце</RimMarket.Settings.FeeMode>
-	<RimMarket.Settings.TabMarket>Магазин</RimMarket.Settings.TabMarket>
+	<RimMarket.Settings.TabMarket>Ринок</RimMarket.Settings.TabMarket>
 	<RimMarket.Settings.TabVisitors>Відвідувачі</RimMarket.Settings.TabVisitors>
 	<RimMarket.Settings.TabEvents>Події</RimMarket.Settings.TabEvents>
 	<RimMarket.Settings.TabTrade>Торгівля</RimMarket.Settings.TabTrade>
@@ -45,7 +45,7 @@
 	<RimMarket.CommandInnBed>Заїжджий двір</RimMarket.CommandInnBed>
 	<RimMarket.CommandInnBedDesc>Здавай це ліжко в оренду тим, хто прибуває на крамницю: крамарям, охоронцям у вільний від служби час та покупцям, які завітали дорогою. Вони платять за кожну ніч (ціна в налаштуваннях модифікації) та залишають срібло біля ліжка. Поселенці, в'язні та раби не користуватимуться ним. Гарна окрема кімната їм до вподоби, а спальне місце в сараї — ні.</RimMarket.CommandInnBedDesc>
 	<RimMarket.InnBedPrisonCell>Тюремна камера — не найкраще місце для заїжджого двору.</RimMarket.InnBedPrisonCell>
-	<RimMarket.InnBedHotelGuest>Це ліжко для гостя готелю. Спочатку забери його з готелю.</RimMarket.InnBedHotelGuest>
+	<RimMarket.InnBedHotelGuest>Це ліжко для гостей заїзджого двору. Спочатку перепризнач це ліжко .</RimMarket.InnBedHotelGuest>
 	<RimMarket.InnBedLocked>Це ліжко здається в оренду як місце в заїжджому дворі. Спочатку вимкни цю функцію.</RimMarket.InnBedLocked>
 	<RimMarket.InnBedInspect>Заїжджий двір, {1}: {0} срібла за ніч.</RimMarket.InnBedInspect>
 	<RimMarket.InnBedInspectFree>Заїжджий двір, {0}: безкоштовно.</RimMarket.InnBedInspectFree>
@@ -101,7 +101,7 @@
 	<RimMarket.Settings.MaxGuardsHint>Каравани, що прямують на мапу з крамницею, беруть із собою не більше цієї кількості охоронців — найсильніших із них. Решта залишається вдома. Кількість завжди щонайменше на одного більша, ніж охоронців на ятці, щоб було кому їх замінити.</RimMarket.Settings.MaxGuardsHint>
 	<RimMarket.Settings.NoLimit>Без лімітів</RimMarket.Settings.NoLimit>
 	<RimMarket.Settings.Haggle>Торги</RimMarket.Settings.Haggle>
-	<RimMarket.Settings.HaggleHint>Одна спроба за відвідування. Соціальна майстерність і прихильність фракції проти терпіння крамаря. Невдача коштуватиме тобі стільки ж, на скільки ти міг би збити ціну, а крамар піде раніше.</RimMarket.Settings.HaggleHint>
+	<RimMarket.Settings.HaggleHint>Одна спроба за відвідування. Навичка спілкування і прихильність фракції проти терпіння крамаря. Невдача коштуватиме тобі стільки ж, на скільки ти міг би збити ціну, а крамар піде раніше.</RimMarket.Settings.HaggleHint>
 	<RimMarket.Settings.HaggleBonus>Бонус</RimMarket.Settings.HaggleBonus>
 	<RimMarket.Settings.ColonistsBrowse>Поселенці оглядають ятки</RimMarket.Settings.ColonistsBrowse>
 	<RimMarket.Settings.ColonistsBrowseHint>Поселенці, які не мають роботи, підходять до яток, розглядають товари та спілкуються з крамарем. Вони ніколи не витрачають власне срібло колонії.</RimMarket.Settings.ColonistsBrowseHint>
